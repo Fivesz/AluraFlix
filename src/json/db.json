@@ -1,0 +1,124 @@
+{
+  "videos": [
+    {
+      "id": "9aef",
+      "titulo": "Desmistificando Mobile- Por onde eu começo? #01",
+      "categoria": "Mobile",
+      "imagem": "https://i.ytimg.com/vi/2z6f8VN_Pro/maxresdefault.jpg",
+      "link": "https://youtu.be/2z6f8VN_Pro?si=rLWSSj3QNwmUt3Um",
+      "descricao": "Tem série nova no canal 🤩\n\nA Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste primeiro episódio vamos partir, literalmente, do começo, por onde começar a estudar sobre o mundo dos apps? Os instrutores da escola de mobile da Alura nos ajudam com essa tarefa 😉"
+    },
+    {
+      "id": "103a",
+      "titulo": "Desmistificando mobile- Linguagens e Frameworks #2",
+      "categoria": "Mobile",
+      "imagem": "https://i.ytimg.com/vi/fmu1LQvZhms/maxresdefault.jpg",
+      "link": "https://youtu.be/fmu1LQvZhms?si=UDHKwDQNQ6_pmRxZ",
+      "descricao": "Segundo episódio no ar! 🥳\n\nNo segundo episódio da websérie “Desmistificando o mobile” vamos entender um pouco sobre o que é feito após ser inserido no mundo dos apps: conhecer um pouco mais sobre frameworks e linguagens de programação e porque existem diferentes para fazer um aplicativo de celular. Vêm aprender um pouco na companhia do Alex Felipe, da Nathalia Thiel, Giovanna Moeller e do Caio Couto 😉"
+    },
+    {
+      "id": "0f8a",
+      "titulo": "Nativos: Android e iOS | Desmistificando Mobile- Ep #3",
+      "categoria": "Mobile",
+      "imagem": "https://i.ytimg.com/vi/9V48oXZdXgQ/maxresdefault.jpg",
+      "link": "https://youtu.be/9V48oXZdXgQ?si=OdpbGypwsYhq9-CF",
+      "descricao": "Terceiro episódio no ar! 😎\n\nAgora que a Helô já que sabe que existem muitas linguagens de programação em mobile e que ela pode escolher qual se encaixa melhor no seu projeto de “como fazer meu primeiro app” ela vai conversar com Alex Felipe, especialista em Android e com a Giovanna Moeller, dev iOS para entender um pouco do mundo dos nativos para desenvolver aplicativos 🤩"
+    },
+    {
+      "id": "2653",
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando Mobile - Ep #4",
+      "categoria": "Mobile",
+      "imagem": "https://i.ytimg.com/vi/vf9P_PycgRw/maxresdefault.jpg",
+      "link": "https://youtu.be/vf9P_PycgRw?si=fI4ZBeUdmqV4wQz5",
+      "descricao": "Quarto episódio saiu do forno! 🥰\n\nDepois de entender sobre as linguagens de programação nativas, Helô vai conversar com a Natalia Thiel e o Caio Couto sobre Flutter e React Native, que são linguagens híbridas e que possibilitam outros caminhos para os aplicativos de celular 🤩"
+    },
+    {
+      "id": "c641",
+      "titulo": "Mercado de Trabalho | Desmistificando Mobile - Ep #5",
+      "categoria": "Mobile",
+      "imagem": "https://i.ytimg.com/vi/YhnNOTde2I0/maxresdefault.jpg",
+      "link": "https://youtu.be/YhnNOTde2I0?si=8du1jC9eLxXB-Fk_",
+      "descricao": "Quinto e último episódio no ar! 😎\n\nHelô entendeu como ela pode iniciar seus estudos em mobile, quais são as linguagens e frameworks mais utilizadas e as diferenças entre elas. Agora é hora de saber como é o mercado de trabalho e quais as os caminhos que ela poderia seguir dentro da carreira de desenvolvedora de aplicativos 😆"
+    },
+    {
+      "id": "2209",
+      "titulo": "Guia de carreira Front-end | #HipstersPontoTube",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/fpth65ts3cw/sddefault.jpg",
+      "link": "https://youtu.be/fpth65ts3cw?si=v10VA1Z3C6HpcE2s",
+      "descricao": "Nova temporada de Hipsters.tube no ar e agora com foco em carreira! 🎊\n\nNesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T.\n"
+    },
+    {
+      "id": "58c7",
+      "titulo": "Como testar seu Front-end? com Mario Souto | #HipstersPontoTube",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/CaTbfdsVydE/sddefault.jpg",
+      "link": "https://youtu.be/CaTbfdsVydE?si=Q8WThImbdeYmX8fO",
+      "descricao": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar.\n\nO ‪@DevSoutinho‬ compartilhou dicas pra você testar seu Front-end e como praticar testes desde funcionalidades simples até as mais avançadas. Confere aí e conta pra gente se você está testando suas habilidades nessa área e quais bibliotecas costuma usar ✌😉"
+    },
+    {
+      "id": "3c33",
+      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+      "link": "https://youtu.be/ZY3-MFxVdEw?si=N9XpQ4VIyNdkcTkU",
+      "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio! \n"
+    },
+    {
+      "id": "950d",
+      "titulo": "Ecossistema React JS com Charles Assunção | #HipstersPontoTube",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/F5As-8hWNIQ/maxresdefault.jpg",
+      "link": "https://youtu.be/F5As-8hWNIQ?si=pomYmTm_8HoRWElj",
+      "descricao": "Fique por dentro das novas bibliotecas de React JS, o uso de componentes, as conhecidas Redux e GraphQL, além da discussão sobre o ciclo de vida no Front-End.\n\nNeste #HipstersPontoTube o host Paulo Silveira convida Charles Assunção para um bate papo mega interessante sobre ecossistema react. Entenda como utilizar a ferramenta e muito mais 😉"
+    },
+    {
+      "id": "b0c7",
+      "titulo": "Como criar temas customizados no Flutter | #AluraMais",
+      "categoria": "Front End",
+      "imagem": "https://i.ytimg.com/vi/sTnUwOVYZt0/maxresdefault.jpg",
+      "link": "https://youtu.be/sTnUwOVYZt0?si=-FCZXiI7Kx8-_N76",
+      "descricao": "Como utilizar Flutter Themes, customizar temas no seu aplicativo, usar cor primária e secundária, com o Dart.\n\nContinuando a nossa série de Alura+ sobre Flutter, hoje, o Matheus Alberto, Instrutor da Escola Mobile da Alura, ensina você a criar temas customizados no Flutter. Vamos nessa?"
+    },
+    {
+      "id": "5804",
+      "titulo": "Guia de Carreira PHP | #HipstersPontoTube",
+      "categoria": "Back End",
+      "imagem": "https://i.ytimg.com/vi/ETohL_o3SEI/maxresdefault.jpg",
+      "link": "https://youtu.be/ETohL_o3SEI?si=xzpHrEMe7NtxXado",
+      "descricao": "8º ep. da Temporada! Com o Guia de Carreira PHP, aprenda o que é e para que serve essa linguagem de programação e saiba o que ela faz desde o Back-End até o Front-End (com Desenvolvimento Web). Aqui você encontra uma trilha de estudos do INICIANTE ao AVANÇADO que conta com temáticas como: fundamentos do PHP, array, MySQL, try catch, cURL, if e else, Laravel, JSON, MVC, PDO, Bibliotecas e Frameworks, classes, React PHP, testes e muito mais!"
+    },
+    {
+      "id": "b960",
+      "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+      "categoria": "Back End",
+      "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/sddefault.jpg",
+      "link": "https://youtu.be/fiPfvylj6rk?si=s5bUCCrkudOflg23",
+      "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? 🤔\n\nA Juliana Amoasei responde tudo isso pra você no vídeo! Confere aí! "
+    },
+    {
+      "id": "b3d8",
+      "titulo": "O que é GraphQL? com Juliana Amoasei | #HipstersPontoTube",
+      "categoria": "Back End",
+      "imagem": "https://i.ytimg.com/vi/trf3ZR_K1nk/sddefault.jpg",
+      "link": "https://youtu.be/trf3ZR_K1nk?si=POupF53la4ZqJx3A",
+      "descricao": "O que é GraphQL? Como ele funciona? Com alguns exemplos incríveis a Juliana Amoasei explicou como trabalhar com essa linguagem.\n\nE você, usa GraphQL? O que acha dessa especificação para tratar dados? Confere o conteúdo e conta pra gente nos comentários a sua opinião 👇"
+    },
+    {
+      "id": "1af8",
+      "titulo": "Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube",
+      "categoria": "Back End",
+      "imagem": "https://i.ytimg.com/vi/xrRy3RI3HE4/sddefault.jpg",
+      "link": "https://youtu.be/xrRy3RI3HE4?si=xggwmPximcwPmZV9",
+      "descricao": "Qual a diferença entre Back-end e Front-end? É possível se especializar nas duas áreas? Como é a rotina desses profissionais e com quais outras áreas da tecnologia acabam se relacionando? \n\nO Paulo Silveira e o ‪@DevSoutinho‬ explicaram como funciona o universo da programação para Dev Back-end e Front-end. Confira o conteúdo e compartilha com a gente qual a sua especialização😉"
+    },
+    {
+      "id": "e77c",
+      "titulo": "Ecossistema Node.js #HipstersPontoTube",
+      "categoria": "Back End",
+      "imagem": "https://i.ytimg.com/vi/2hrIwQWx9w4/sddefault.jpg",
+      "link": "https://youtu.be/2hrIwQWx9w4?si=fHMIdm_MqN-hym6U",
+      "descricao": "Recebemos a Juliana Amoasei, uma das nossas instrutoras, para falar sobre as principais bibliotecas e frameworks desse imenso ecossistema do Node.JS. "
+    }
+  ]
+}

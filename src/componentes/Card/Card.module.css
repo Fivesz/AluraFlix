@@ -1,0 +1,42 @@
+.Card {
+  width: 432.24px;
+  margin-bottom: 15px;
+  border: 4px solid;
+  border-radius: 8px 8px 12px 12px;
+  background-color: #03122f;
+}
+
+.CardImagem {
+  object-fit: cover;
+  width: 100%;
+  height: 323px;
+  border-bottom: 4px solid;
+}
+
+.Card figcaption {
+  padding: 16px 0px;
+}
+
+.CardRodape {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  column-gap: 70px;
+  padding: 0px 60px;
+}
+
+.CardRodape button {
+  display: flex;
+  font-size: 16px;
+  font-weight: 800px;
+  text-transform: uppercase;
+  color: #fff;
+  border: none;
+  align-items: center;
+  gap: 16px;
+  cursor: pointer;
+}

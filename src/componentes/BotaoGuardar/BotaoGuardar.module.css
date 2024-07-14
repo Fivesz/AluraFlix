@@ -1,0 +1,12 @@
+.BotaoGuardar {
+  color: #fff;
+  border: 2px solid #1875e8;
+  cursor: pointer;
+  border-radius: 15px;
+  display: grid;
+  width: 180px;
+  height: 54px;
+  text-align: center;
+  align-items: center;
+  text-transform: uppercase;
+}

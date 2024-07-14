@@ -1,0 +1,16 @@
+.link {
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 15px;
+  display: grid;
+  width: 180px;
+  height: 54px;
+  text-align: center;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.linkAtivo {
+  color: #1875e8;
+  border-color: #1875e8;
+}
